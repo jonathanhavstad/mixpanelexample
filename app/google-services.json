@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69223856286",
+    "firebase_url": "https://cisco-project-2016.firebaseio.com",
+    "project_id": "cisco-project-2016",
+    "storage_bucket": "cisco-project-2016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69223856286:android:caa45b1602f84eba",
+        "android_client_info": {
+          "package_name": "com.elkimanteam.mixpanelexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69223856286-adse776q8i7semvc6hnu4agmjh7e66cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elkimanteam.mixpanelexample",
+            "certificate_hash": "7127571C2C5D349A175508BDCEFB36C5670947F5"
+          }
+        },
+        {
+          "client_id": "69223856286-8ho6h3otrh3i7anpvrtt0ii0f3i4kg0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kXU0i6Dp-yVoSgVawMX_DiRQ3bcpUrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69223856286-8ho6h3otrh3i7anpvrtt0ii0f3i4kg0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

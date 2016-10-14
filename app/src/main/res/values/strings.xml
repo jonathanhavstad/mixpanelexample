@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MixPanelExample</string>
+    <string name="unique_user_id">0123456789</string>
+    <string name="mixpanel_flurry_token">0618cab31c92fc9cf103c3dc6f7c1587</string>
+    <string name="firebase_server_id">69223856286</string>
+</resources>
